@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>006E6C11-0E5B-4D63-B6AC-CAC029A6FCB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>006E6C11-0E5B-4D63-B6AC-CAC029A6FCB3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ListStyleWatch WatchKit App (Complication)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews ListStyleWatch WatchKit App (Complication)</string>
+			<key>timeStartedRecording</key>
+			<real>618499570.15848696</real>
+			<key>timeStoppedRecording</key>
+			<real>618499573.58745694</real>
+			<key>title</key>
+			<string>Build for Previews ListStyleWatch WatchKit App (Complication)</string>
+			<key>uniqueIdentifier</key>
+			<string>006E6C11-0E5B-4D63-B6AC-CAC029A6FCB3</string>
+		</dict>
+		<key>397CB466-CA65-458C-9424-EC2D15EE6E23</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>397CB466-CA65-458C-9424-EC2D15EE6E23.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUI-ListStyle</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftUI-ListStyle</string>
+			<key>timeStartedRecording</key>
+			<real>618497650.25177395</real>
+			<key>timeStoppedRecording</key>
+			<real>618497650.40690804</real>
+			<key>title</key>
+			<string>Build SwiftUI-ListStyle</string>
+			<key>uniqueIdentifier</key>
+			<string>397CB466-CA65-458C-9424-EC2D15EE6E23</string>
+		</dict>
+		<key>4D54E012-C583-4C1E-8A0F-C7892A536915</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4D54E012-C583-4C1E-8A0F-C7892A536915.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ListStyleWatch WatchKit App (Complication)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ListStyleWatch WatchKit App (Complication)</string>
+			<key>timeStartedRecording</key>
+			<real>618499454.50214899</real>
+			<key>timeStoppedRecording</key>
+			<real>618499458.01292002</real>
+			<key>title</key>
+			<string>Build ListStyleWatch WatchKit App (Complication)</string>
+			<key>uniqueIdentifier</key>
+			<string>4D54E012-C583-4C1E-8A0F-C7892A536915</string>
+		</dict>
+		<key>55D1CE3A-E66C-434B-AA48-E73DCB2DD2D5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55D1CE3A-E66C-434B-AA48-E73DCB2DD2D5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ListStyleWatch WatchKit App (Complication)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ListStyleWatch WatchKit App (Complication)</string>
+			<key>timeStartedRecording</key>
+			<real>618499304.86605895</real>
+			<key>timeStoppedRecording</key>
+			<real>618499308.63861406</real>
+			<key>title</key>
+			<string>Build ListStyleWatch WatchKit App (Complication)</string>
+			<key>uniqueIdentifier</key>
+			<string>55D1CE3A-E66C-434B-AA48-E73DCB2DD2D5</string>
+		</dict>
+		<key>700DFABD-E2E1-4D71-BC57-522E11144DE6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>700DFABD-E2E1-4D71-BC57-522E11144DE6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUI-ListStyle</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftUI-ListStyle</string>
+			<key>timeStartedRecording</key>
+			<real>618498171.35531795</real>
+			<key>timeStoppedRecording</key>
+			<real>618498172.68446302</real>
+			<key>title</key>
+			<string>Build SwiftUI-ListStyle</string>
+			<key>uniqueIdentifier</key>
+			<string>700DFABD-E2E1-4D71-BC57-522E11144DE6</string>
+		</dict>
+		<key>8F999F52-F6B3-40C3-8A45-BDB2B85DE210</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8F999F52-F6B3-40C3-8A45-BDB2B85DE210.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ListStyleWatch WatchKit App (Complication)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews ListStyleWatch WatchKit App (Complication)</string>
+			<key>timeStartedRecording</key>
+			<real>618498978.51328099</real>
+			<key>timeStoppedRecording</key>
+			<real>618499003.60623002</real>
+			<key>title</key>
+			<string>Build for Previews ListStyleWatch WatchKit App (Complication)</string>
+			<key>uniqueIdentifier</key>
+			<string>8F999F52-F6B3-40C3-8A45-BDB2B85DE210</string>
+		</dict>
+		<key>987A48E6-7C07-4E73-B40E-285145449D85</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>987A48E6-7C07-4E73-B40E-285145449D85.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ListStyleWatch WatchKit App (Complication)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ListStyleWatch WatchKit App (Complication)</string>
+			<key>timeStartedRecording</key>
+			<real>618499588.89006495</real>
+			<key>timeStoppedRecording</key>
+			<real>618499598.74206698</real>
+			<key>title</key>
+			<string>Build ListStyleWatch WatchKit App (Complication)</string>
+			<key>uniqueIdentifier</key>
+			<string>987A48E6-7C07-4E73-B40E-285145449D85</string>
+		</dict>
+		<key>A0D63BB5-2C3B-4A9B-A5E4-AF756F603727</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A0D63BB5-2C3B-4A9B-A5E4-AF756F603727.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ListStyleWatch WatchKit App (Complication)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ListStyleWatch WatchKit App (Complication)</string>
+			<key>timeStartedRecording</key>
+			<real>618498866.88489401</real>
+			<key>timeStoppedRecording</key>
+			<real>618498900.41717994</real>
+			<key>title</key>
+			<string>Build ListStyleWatch WatchKit App (Complication)</string>
+			<key>uniqueIdentifier</key>
+			<string>A0D63BB5-2C3B-4A9B-A5E4-AF756F603727</string>
+		</dict>
+		<key>ADC3A131-5825-4445-AF0C-B18BCF4E002E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ADC3A131-5825-4445-AF0C-B18BCF4E002E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUI-ListStyle</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUI-ListStyle</string>
+			<key>timeStartedRecording</key>
+			<real>618497877.68812096</real>
+			<key>timeStoppedRecording</key>
+			<real>618497878.44063795</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUI-ListStyle</string>
+			<key>uniqueIdentifier</key>
+			<string>ADC3A131-5825-4445-AF0C-B18BCF4E002E</string>
+		</dict>
+		<key>B7E4831E-7E8C-4BFD-A49F-C0EFF8E9C8ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B7E4831E-7E8C-4BFD-A49F-C0EFF8E9C8ED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUI-ListStyle</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftUI-ListStyle</string>
+			<key>timeStartedRecording</key>
+			<real>618498283.49395597</real>
+			<key>timeStoppedRecording</key>
+			<real>618498284.44847798</real>
+			<key>title</key>
+			<string>Build SwiftUI-ListStyle</string>
+			<key>uniqueIdentifier</key>
+			<string>B7E4831E-7E8C-4BFD-A49F-C0EFF8E9C8ED</string>
+		</dict>
+		<key>C2914674-4A68-4456-B9CC-1A5DEBEC4091</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C2914674-4A68-4456-B9CC-1A5DEBEC4091.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUI-ListStyle</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUI-ListStyle</string>
+			<key>timeStartedRecording</key>
+			<real>618497840.22366798</real>
+			<key>timeStoppedRecording</key>
+			<real>618497846.05893505</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUI-ListStyle</string>
+			<key>uniqueIdentifier</key>
+			<string>C2914674-4A68-4456-B9CC-1A5DEBEC4091</string>
+		</dict>
+		<key>C3881961-098C-47B1-AEFC-7F7D7369810A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C3881961-098C-47B1-AEFC-7F7D7369810A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ListStyleWatch WatchKit App (Complication)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews ListStyleWatch WatchKit App (Complication)</string>
+			<key>timeStartedRecording</key>
+			<real>618498941.60199106</real>
+			<key>timeStoppedRecording</key>
+			<real>618498946.01391804</real>
+			<key>title</key>
+			<string>Build for Previews ListStyleWatch WatchKit App (Complication)</string>
+			<key>uniqueIdentifier</key>
+			<string>C3881961-098C-47B1-AEFC-7F7D7369810A</string>
+		</dict>
+		<key>C4A79D2C-1598-4CF2-AC5A-0E17DEAFD968</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4A79D2C-1598-4CF2-AC5A-0E17DEAFD968.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUI-ListStyle</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftUI-ListStyle</string>
+			<key>timeStartedRecording</key>
+			<real>618497868.52431798</real>
+			<key>timeStoppedRecording</key>
+			<real>618497869.71422303</real>
+			<key>title</key>
+			<string>Build SwiftUI-ListStyle</string>
+			<key>uniqueIdentifier</key>
+			<string>C4A79D2C-1598-4CF2-AC5A-0E17DEAFD968</string>
+		</dict>
+		<key>C95930CF-A3B9-4A13-89F9-7C77232C7542</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C95930CF-A3B9-4A13-89F9-7C77232C7542.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ListStyleWatch WatchKit App (Complication)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews ListStyleWatch WatchKit App (Complication)</string>
+			<key>timeStartedRecording</key>
+			<real>618499188.40511203</real>
+			<key>timeStoppedRecording</key>
+			<real>618499193.07477105</real>
+			<key>title</key>
+			<string>Build for Previews ListStyleWatch WatchKit App (Complication)</string>
+			<key>uniqueIdentifier</key>
+			<string>C95930CF-A3B9-4A13-89F9-7C77232C7542</string>
+		</dict>
+		<key>CBE988C5-5402-4AAD-A51E-8B480B5764FD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CBE988C5-5402-4AAD-A51E-8B480B5764FD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ListStyleWatch WatchKit App (Complication)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews ListStyleWatch WatchKit App (Complication)</string>
+			<key>timeStartedRecording</key>
+			<real>618499429.85443997</real>
+			<key>timeStoppedRecording</key>
+			<real>618499434.28508401</real>
+			<key>title</key>
+			<string>Build for Previews ListStyleWatch WatchKit App (Complication)</string>
+			<key>uniqueIdentifier</key>
+			<string>CBE988C5-5402-4AAD-A51E-8B480B5764FD</string>
+		</dict>
+		<key>D805A0D9-082C-4B97-8F92-0297723DCCBB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D805A0D9-082C-4B97-8F92-0297723DCCBB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ListStyleWatch WatchKit App (Complication)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ListStyleWatch WatchKit App (Complication)</string>
+			<key>timeStartedRecording</key>
+			<real>618499615.07015502</real>
+			<key>timeStoppedRecording</key>
+			<real>618499618.89836705</real>
+			<key>title</key>
+			<string>Build ListStyleWatch WatchKit App (Complication)</string>
+			<key>uniqueIdentifier</key>
+			<string>D805A0D9-082C-4B97-8F92-0297723DCCBB</string>
+		</dict>
+		<key>E70341D6-9F0B-4583-AD48-39913E7F2C00</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E70341D6-9F0B-4583-AD48-39913E7F2C00.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUI-ListStyle</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftUI-ListStyle</string>
+			<key>timeStartedRecording</key>
+			<real>618497655.95548201</real>
+			<key>timeStoppedRecording</key>
+			<real>618497664.49560797</real>
+			<key>title</key>
+			<string>Build SwiftUI-ListStyle</string>
+			<key>uniqueIdentifier</key>
+			<string>E70341D6-9F0B-4583-AD48-39913E7F2C00</string>
+		</dict>
+		<key>FC4E8C17-7AB5-4BF6-822C-66D3655E311D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC4E8C17-7AB5-4BF6-822C-66D3655E311D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-ListStyle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUI-ListStyle</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftUI-ListStyle</string>
+			<key>timeStartedRecording</key>
+			<real>618498242.39344704</real>
+			<key>timeStoppedRecording</key>
+			<real>618498243.37002003</real>
+			<key>title</key>
+			<string>Build SwiftUI-ListStyle</string>
+			<key>uniqueIdentifier</key>
+			<string>FC4E8C17-7AB5-4BF6-822C-66D3655E311D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

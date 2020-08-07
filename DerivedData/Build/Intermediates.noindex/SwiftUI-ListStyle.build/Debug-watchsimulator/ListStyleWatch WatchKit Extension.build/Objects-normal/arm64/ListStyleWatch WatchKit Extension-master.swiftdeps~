@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.25.2 clang-1200.0.27.1)"
+options: "c86bcfb65c46dd45fbe8916707f6e988"
+build_time: [1596806789, 89577000]
+inputs:
+  "/Volumes/MyBookDisk/Work/SwiftUI-listStyle/ListStyleWatch WatchKit Extension/NotificationController.swift": [1596806056, 0]
+  "/Volumes/MyBookDisk/Work/SwiftUI-listStyle/ListStyleWatch WatchKit Extension/ContentView.swift": [1596806784, 0]
+  "/Volumes/MyBookDisk/Work/SwiftUI-listStyle/ListStyleWatch WatchKit Extension/ComplicationController.swift": [1596806056, 0]
+  "/Volumes/MyBookDisk/Work/SwiftUI-listStyle/ListStyleWatch WatchKit Extension/SwiftUI_ListStyleApp.swift": [1596806172, 0]
+  "/Volumes/MyBookDisk/Work/SwiftUI-listStyle/ListStyleWatch WatchKit Extension/NotificationView.swift": [1596806056, 0]

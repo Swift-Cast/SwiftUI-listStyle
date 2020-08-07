@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.25.2 clang-1200.0.27.1)"
+options: "49722e42bb888abfb5285942a6c47415"
+build_time: [1596804850, 321465000]
+inputs:
+  "/Volumes/MyBookDisk/Work/SwiftUI-listStyle/SwiftUI-ListStyle/ContentView.swift": !dirty [1596804720, 0]
+  "/Volumes/MyBookDisk/Work/SwiftUI-listStyle/SwiftUI-ListStyle/SwiftUI_ListStyleApp.swift": !dirty [1596804720, 0]
